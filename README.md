@@ -38,7 +38,7 @@ npm install
 npm run dev
 ```
 
-4. Open [http://localhost:5173](http://localhost:5173) in your browser
+4. Open [https://neon-sawine-596744.netlify.app/](https://neon-sawine-596744.netlify.app/) in your browser
 
 ## 🔧 Available Scripts
 
@@ -61,15 +61,6 @@ src/
 └── assets/        # Static assets
 ```
 
-## 🛠️ Environment Variables
-
-No environment variables are required to run this project.
-
-## 🧪 Testing
-
-For demo purposes, you can use these credentials:
-- Email: user@example.com
-- Password: password123
 
 ## 🎨 Features Demo
 
