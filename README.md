@@ -2,6 +2,8 @@
 
 A modern, responsive e-commerce platform built with React and Tailwind CSS, featuring a clean design and smooth shopping experience.
 
+**🔗 Live Demo:** https://tejaskumat8.github.io/ShopWave-E-Commerce-Platform/
+
 ## 🌟 Features
 
 - **Product Browsing**: Browse through a diverse catalog with category filtering and search
@@ -30,6 +32,7 @@ git clone <repository-url>
 
 2. Install dependencies:
 ```bash
+cd "end term"
 npm install
 ```
 
@@ -38,7 +41,7 @@ npm install
 npm run dev
 ```
 
-4. Open [https://neon-sawine-596744.netlify.app/](https://neon-sawine-596744.netlify.app/) in your browser
+4. Open [http://localhost:5173](http://localhost:5173) in your browser
 
 ## 🔧 Available Scripts
 
